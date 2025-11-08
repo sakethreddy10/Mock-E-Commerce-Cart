@@ -1,4 +1,4 @@
-# Vibe Commerce - E-Commerce Cart Application
+#Mock E-Commerce Cart Application
 
 A full-stack shopping cart application built with React frontend and Node.js/Express backend with SQLite database.
 
