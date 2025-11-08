@@ -1,4 +1,4 @@
-# Vibe Commerce - E-Commerce Cart Application
+# E Commerce Cart - E-Commerce Cart Application
 
 A full-stack shopping cart application built with React frontend and Node.js/Express backend with SQLite database.
 
@@ -43,7 +43,7 @@ A full-stack shopping cart application built with React frontend and Node.js/Exp
 1. **Clone and install dependencies:**
    ```bash
    git clone <repository-url>
-   cd vibe-commerce-cart
+   cd e-commerce-cart
    npm run install-all
    ```
 
@@ -86,7 +86,7 @@ If you prefer to start servers individually:
 ## Project Structure
 
 ```
-vibe-commerce-cart/
+e-commerce-cart/
 ├── client/                 # React frontend
 │   ├── src/
 │   │   ├── components/     # React components

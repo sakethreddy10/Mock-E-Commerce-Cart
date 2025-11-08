@@ -86,7 +86,7 @@ function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>Vibe Commerce</h1>
+        <h1>E Commerce Cart</h1>
         <button 
           className="cart-button"
           onClick={() => setShowCart(!showCart)}

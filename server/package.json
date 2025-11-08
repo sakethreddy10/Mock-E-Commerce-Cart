@@ -1,5 +1,5 @@
 {
-  "name": "vibe-commerce-server",
+  "name": "e-commerce-server",
   "version": "1.0.0",
   "description": "Backend API for e-commerce cart",
   "main": "index.js",

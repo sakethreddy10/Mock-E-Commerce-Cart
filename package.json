@@ -1,5 +1,5 @@
 {
-  "name": "vibe-commerce-cart",
+  "name": "e-commerce-cart",
   "version": "1.0.0",
   "description": "Full-stack e-commerce cart application",
   "main": "server/index.js",
